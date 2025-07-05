@@ -1,0 +1,24 @@
+.container{
+    border:2px solid black;
+    height: 500px;
+    width : 100%;
+    padding : 20px;
+    background-color : lightgray;
+    padding-left : 50px;
+    text-align: center;
+    margin: 2px;
+}
+.item{
+    border:2px solid black;
+    width: 300px;
+    height: 490px;
+    display:inline-block;
+    background-color: pink ;
+
+}
+.item img{
+    width: 200px;
+    height: 300px;
+    padding-right:"50px";
+    margin: 30px;
+}
